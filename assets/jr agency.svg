@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1000" viewBox="0 0 2000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50px;
+        fill: #e8b705;
+        font-family: Poppins;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="JR_AGENCY" data-name="JR AGENCY" class="cls-1" transform="matrix(6.4, 0, 0, 6.4, 93.287, 630.509)">JR AGENCY</text>
+</svg>
